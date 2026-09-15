@@ -6,6 +6,8 @@ results/
 !.github
 !.github/**
 !.gitignore
+.env
+.env.*
 !.env.example
 !.coderabbit.yaml
 *.log
